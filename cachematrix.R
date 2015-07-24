@@ -1,4 +1,4 @@
-## this files contain the pair of functions that cache the inverse of a matrix
+## this files contain 2 functions that cache the inverse of a matrix
 
 ## this first function called makeCacheMatrix creates a special "matrix" object that can cache its inverse
 
